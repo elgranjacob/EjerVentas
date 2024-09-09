@@ -1,3 +1,3 @@
 # EjerVentas
-Tarea
+Tarea: 
 En este caso el codigo primero imprime un arreglo 4x12, como lo pide ahi, yo lo hice con dos bucles for en donde uno me imprimia la parte de arriba y el costado, lo hice con varias funcionalidades que busqué por internet, el otro bucle imprimia lo que eran las ventas. Como nos pedian hacer funciones de busqueda, agregar, y eliminar primero cree una clase correspondiente a las funciones y en cada uno atraves de condiciones y con funciones del lenguaje logre hacer que se guaden en una variable y luego lo imprimia. En java es lo mismo solo que cambia un poco la estructura del codigo y la sintaxis.
